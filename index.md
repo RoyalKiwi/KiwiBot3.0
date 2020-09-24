@@ -11,9 +11,11 @@ World of Tanks Campaigns are based around the games [Global Map](https://asia.wa
 
 # Blogs 
 
-## Blog 1 - Problem 
+## Blog - Problem 
 Communication is a key feature in teamwork and the better you can get information across the better you team can preform. In the Competitive Community of World of Tanks Communication between officers during campaigns can lack crucial information needed for other members to plan their night and can disrupt strategy's and plans.
 Seeing as their is limited time between matches this can cause issues with people not knowing which battle to be in as there can be up to 10 battles at once and the clan needs to split between all the battles.
 #### Proposed Solution
 To create a automated communication bot to gather information from the Global Map API and display this information in a easy to read and find format in discord where clan members can find it. Since this is pulling directly from the API it will be available minimum of a hour before instead of 10-15 minutes before and allow members to plan accordingly.
 
+## Blog - Compliations
+Issues during building have come up left and right. one big issue is ways to deal with the battle data from the API, the solution i am currenly using is holding all the varible in code and calling them when needed but this can cause issues when formatting and trying to order data. this has worked well and doesnt have any big issues. Another option is to create a database for each instance/Server that updates the battle data every 15min and then pulling information stright from the database. this would allow for more detailed coustomisation of the data and better formatting later. This methoed i will probally look into later in production but will stay with data in the code for the current moment.

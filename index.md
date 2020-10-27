@@ -19,3 +19,8 @@ To create a automated communication bot to gather information from the Global Ma
 
 ## Blog - Compliations
 Issues during building have come up left and right. one big issue is ways to deal with the battle data from the API, the solution i am currenly using is holding all the varible in code and calling them when needed but this can cause issues when formatting and trying to order data. this has worked well and doesnt have any big issues. Another option is to create a database for each instance/Server that updates the battle data every 15min and then pulling information stright from the database. this would allow for more detailed coustomisation of the data and better formatting later. This methoed i will probally look into later in production but will stay with data in the code for the current moment.
+
+## Blog - Update 
+Currently have the program running consistanly with battles being posted and deleted accordingly. Two main problems im having at the moment, 1. formatting the games time down from full length to only Day, Hour, Min. problem 2. is sorting and not posting any games that have a start time prior to the posting of the messages so that the bot doesnt show old games.
+
+

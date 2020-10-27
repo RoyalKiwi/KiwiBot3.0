@@ -23,4 +23,6 @@ Issues during building have come up left and right. one big issue is ways to dea
 ## Blog - Update 
 Currently have the program running consistanly with battles being posted and deleted accordingly. Two main problems im having at the moment, 1. formatting the games time down from full length to only Day, Hour, Min. problem 2. is sorting and not posting any games that have a start time prior to the posting of the messages so that the bot doesnt show old games.
 
+## Blog - Feedback
+Currently i have the bot working in an envrioment that allows people in discord (80 clan members) to provid feedback about the bot. this allows me to fix problems that may accor that i myself dont see during devlopment. I plan to run a survey and gain extra feeback on different sections of the program and improve. 
 

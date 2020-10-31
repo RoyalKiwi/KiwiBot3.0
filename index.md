@@ -26,3 +26,5 @@ Currently have the program running consistanly with battles being posted and del
 ## Blog - Feedback
 Currently i have the bot working in an envrioment that allows people in discord (80 clan members) to provid feedback about the bot. this allows me to fix problems that may accor that i myself dont see during devlopment. I plan to run a survey and gain extra feeback on different sections of the program and improve. 
 
+## Blog - Issues 
+Learning JavaScript has been difficult as i hadn’t really learned the language yet so to find solutions to each individual problem has been difficult to achieve but a combination of asking question and google has helped a lot. the program I’m using to build the bot has helped a lot in reducing the time necessary to make each part of the project but has also provided limitations that have needed to be worked around. things that could be don’t easy via normal coding become difficult as they are not in the program by default and struggle to work.

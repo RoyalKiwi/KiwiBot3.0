@@ -28,3 +28,12 @@ Currently i have the bot working in an envrioment that allows people in discord 
 
 ## Blog - Issues 
 Learning JavaScript has been difficult as i hadn’t really learned the language yet so to find solutions to each individual problem has been difficult to achieve but a combination of asking question and google has helped a lot. the program I’m using to build the bot has helped a lot in reducing the time necessary to make each part of the project but has also provided limitations that have needed to be worked around. things that could be don’t easy via normal coding become difficult as they are not in the program by default and struggle to work.
+
+## Blog - Future Plans
+My plans are to continue this project even after the semester is completed. I am planning to make it widely available to all the AISA server to allow all clan to have access to it. for that I need to have the software hosted externally and able to run multiple instances. I would also like to format the information and add more variables with commands to allow each server to customise their server more. for example, things like what information and how much they would like to see. and add other commands and events as needed like set announcement when the bot detects battles with @here and @everyone pings depending on when they would like them triggered.
+
+
+
+
+
+
